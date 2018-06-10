@@ -8,10 +8,10 @@ class produitController extends Controller
 {
     public function produitAction()
     {
-        return $this->render('EcommerceBundle:Default:index.html.twig');
+        return $this->render('EcommerceBundle:Default/produit/layout:produit.html.twig');
     }
     public function presentationAction()
     {
-        return $this->render('EcommerceBundle:Default:index.html.twig');
+        return $this->render('EcommerceBundle:Default/produit/layout:presentation.html.twig');
     }
 }

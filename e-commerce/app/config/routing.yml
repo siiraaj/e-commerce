@@ -1,7 +1,4 @@
 ecommerce:
     resource: "@EcommerceBundle/Resources/config/routing.yml"
-    prefix:   /home
+    prefix:   /
 
-app:
-    resource: '@AppBundle/Controller/'
-    type: annotation

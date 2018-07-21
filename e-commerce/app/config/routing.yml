@@ -6,3 +6,4 @@ ecommerce:
     resource: "@EcommerceBundle/Resources/config/routing.yml"
     prefix:   /
 
+## route principal : http://localhost/.git/e-commerce/web/app_dev.php/panier

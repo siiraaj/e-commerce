@@ -1,5 +1,5 @@
 presentation:
-    path:     /
+    path:     /home
     defaults: { _controller: EcommerceBundle:produit:presentation }
 
 produit:

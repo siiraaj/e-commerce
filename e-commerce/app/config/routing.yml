@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 page:
     resource: "@PageBundle/Resources/config/routing.yml"
     prefix:   /
@@ -7,3 +8,5 @@ ecommerce:
     prefix:   /
 
 ## route principal : http://localhost/.git/e-commerce/web/app_dev.php/panier
+=======
+>>>>>>> f7662a2da6d9544f5d30c387839405c60af09cf9

@@ -17,3 +17,7 @@ livraison:
 validation:
     path:     /panier/livraison/validation
     defaults: { _controller: EcommerceBundle:panier:validation }
+
+tet:
+    path:     /ajouter
+    defaults: { _controller: EcommerceBundle:test:ajouter }
